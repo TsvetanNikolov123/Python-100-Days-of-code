@@ -14,6 +14,7 @@ Welcome to my journey through the **100 Days of Code: The Complete Python Pro Bo
 | ✅ Day 4 | Randomization and Lists | [day004](./day004) |
 | ✅ Day 5 | Loops and Code Blocks | [day005](./day005) |
 | 🚧 Day 6 | TBD | _Coming soon_ |
+| ✅ Day 15 | Local Development Environment Setup & the Coffee Machine | [day015](./day015) |
 
 > ✅ = Completed & committed  
 > 🚧 = In progress  
